@@ -1,1 +1,23 @@
-![Alt text](https://github.com/themastersunil/cspX/blob/main/image.png)
+```bash
+root@WSL:~# ./cspX.sh https://www.yahoo.com
+*.builtbygirls.com
+*.rivals.com
+*.engadget.com
+*.intheknow.com
+*.autoblog.com
+*.techcrunch.com
+*.yahoo.com
+*.aol.com
+*.huffingtonpost.com
+*.oath.com
+*.search.yahoo.com
+*.pnr.ouryahoo.com
+pnr.ouryahoo.com
+*.search.aol.com
+*.search.huffpost.com
+*.onesearch.com
+*.verizonmedia.com
+*.publishing.oath.com
+*.autoblog.com
+csp.yahoo.com
+```
