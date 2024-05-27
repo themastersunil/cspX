@@ -3,7 +3,7 @@
 # Function to get the CSP header from a URL
 get_csp_header() {
     local url=$1
-    curl -sI "$url" | grep -iE "Content-Security-Policy:|content-security-policy-report-only:" | tr -d '\r'
+    curl -si "$url" | grep -iE "Content-Security-Policy:|content-security-policy-report-only:" | tr -d '\r'
 }
 
 # Main function to call get_csp_header and process the URL
