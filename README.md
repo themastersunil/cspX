@@ -1,1 +1,1 @@
-![script-in-action](image.jpg)
+![Alt text](image.jpg)
