@@ -14,7 +14,7 @@ main() {
         exit 1
     fi
 
-    get_csp_header "$url" | tr " /;," '\n' | grep -Ea '\.'
+    get_csp_header "$url" | tr " /;,=" '\n' | grep -Ea '\.'
 }
 
 # Call the main function with all script arguments
