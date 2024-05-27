@@ -1,1 +1,1 @@
-![Alt text]([image.jpg](https://github.com/themastersunil/cspX/blob/main/image.png))
+![Alt text](https://github.com/themastersunil/cspX/blob/main/image.png))
